@@ -2,8 +2,6 @@
 ## allow the inverse of matricies to be cached
 
 ## Creates a matrix wrapped in a function.
-## Setting the matrix is done by calling this function
-## again to create a new matrix.
 ## Setting the inverse is done by calling the setsolve
 ## function
 
